@@ -12,6 +12,7 @@ public class InstanceStatic {
 	
 	public void incrementStatic(){
 		statVar++;
+		System.out.println("Guru");
 	}
 	
 	
