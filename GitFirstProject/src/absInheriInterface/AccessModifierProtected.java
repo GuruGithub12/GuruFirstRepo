@@ -3,6 +3,7 @@ package absInheriInterface;
 
 public class AccessModifierProtected {
 
+	// Note : non access modifier is not mentioned for m1 , which means that we need to create object to use this method
 protected void m1(){
 	System.out.println("protected method");
 }
